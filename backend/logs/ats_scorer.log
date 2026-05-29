@@ -622,3 +622,118 @@ paragraph text '<para><!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF
 2026-05-29 11:05:12,624 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
 2026-05-29 11:05:32,574 - INFO - Loaded all-MiniLM-L6-v2
 2026-05-29 11:05:32,574 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:41:44,877 - INFO - shutting down the api!!
+2026-05-29 11:41:46,567 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:41:46,567 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:41:49,866 - INFO - Loaded en_core_web_md
+2026-05-29 11:41:49,866 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:42:02,117 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:42:02,117 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:42:02,220 - INFO - shutting down the api!!
+2026-05-29 11:42:03,362 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:42:03,362 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:42:05,826 - INFO - Loaded en_core_web_md
+2026-05-29 11:42:05,826 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:42:16,232 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:42:16,232 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:42:16,336 - INFO - shutting down the api!!
+2026-05-29 11:42:17,412 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:42:17,412 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:42:19,815 - INFO - Loaded en_core_web_md
+2026-05-29 11:42:19,815 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:42:30,166 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:42:30,166 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:44:38,364 - INFO - shutting down the api!!
+2026-05-29 11:44:39,632 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:44:39,632 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:44:42,194 - INFO - Loaded en_core_web_md
+2026-05-29 11:44:42,194 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:44:52,262 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:44:52,262 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:44:52,366 - INFO - shutting down the api!!
+2026-05-29 11:44:53,500 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:44:53,500 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:44:56,041 - INFO - Loaded en_core_web_md
+2026-05-29 11:44:56,041 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:45:05,665 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:45:05,666 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:45:05,771 - INFO - shutting down the api!!
+2026-05-29 11:45:07,085 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:45:07,085 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:45:09,549 - INFO - Loaded en_core_web_md
+2026-05-29 11:45:09,549 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:45:19,453 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:45:19,453 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:45:19,560 - INFO - shutting down the api!!
+2026-05-29 11:45:20,748 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:45:20,748 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:45:23,092 - INFO - Loaded en_core_web_md
+2026-05-29 11:45:23,093 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:45:32,627 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:45:32,627 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:47:22,189 - INFO - shutting down the api!!
+2026-05-29 11:47:24,584 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:47:24,584 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:47:27,293 - INFO - Loaded en_core_web_md
+2026-05-29 11:47:27,293 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:47:38,042 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:47:38,042 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:47:38,148 - INFO - shutting down the api!!
+2026-05-29 11:47:39,250 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:47:39,250 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:47:41,622 - INFO - Loaded en_core_web_md
+2026-05-29 11:47:41,622 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:47:52,036 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:47:52,036 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:47:52,144 - INFO - shutting down the api!!
+2026-05-29 11:47:53,285 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:47:53,285 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:47:55,718 - INFO - Loaded en_core_web_md
+2026-05-29 11:47:55,718 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:48:06,149 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:48:06,150 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:55:54,405 - INFO - parse_Resume_file: parsing file :mlcv.pdf
+2026-05-29 11:55:54,719 - INFO - parse_resume_file: Extracted 4414 chars from mlcv.pdf
+2026-05-29 11:55:54,720 - INFO - Parsed 'mlcv.pdf': 4414 chars extracted
+2026-05-29 11:55:57,459 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-05-29 11:55:58,740 - INFO - Groq parsed summary: ''
+2026-05-29 11:55:58,740 - INFO - Groq parsed skills count: 17
+2026-05-29 11:55:58,740 - INFO - Groq parsed experience count: 0
+2026-05-29 11:56:02,234 - INFO - Supabase status: 201
+2026-05-29 11:56:02,234 - INFO - Supabase response: [{"id":4,"user_id":"a3ad37e7-bf39-4c0b-9f0b-a9314685bc77","filename":"mlcv.pdf","ats_score":70.3,"keyword_match":0,"missing_keywords":[],"analysis_result":{"skills": ["Python", "C++", "SQL", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn", "Jupyter Notebook", "Vs Code", "Git", "Github", "Data Cleaning", "EDA", "Feature Engineering", "Machine Learning", "Model Evaluation"], "ATS_score": 70.3, "ats_score": 70.3, "strengths": ["Includes a Projects section showcasing applied skills", "Education section is present", "Clear Skills section with listed technologies", "Strong skill set — 17 skills detected", "Uses 7 strong action verbs in bullet points", "Content quality is high with measurable achievements"], "jd_comparison": null, "interpretation": "Good! Your resume is ATS-friendly with room for minor improvements.", "issues_summary": ["Most Skills Lack Supporting Evidence", "Missing Professional Summary"], "component_scores": {"content": 21.0, "keywords": 19.0, "formatting": 14.5, "skill_validation": 0.0, "ats_compatibility": 15.0}, "matched_keywords": ["Machine Learning", "NLP", "Deep Learning", "Probability and Statistics", "Object-Oriented Programming", "Transformer", "Data Analyst", "Python programming", "Data cleaning", "Exploratory data analysis", "Data visualization", "Statistical analysis"], "missing_keywords": [], "detailed_feedback": [{"ats_impact": "High", "how_to_fix": "For each skill in your Skills section, ensure it appears at least once in a project description or experience bullet point. Describe how and where you used that technology.", "explanation": "100% of your listed skills (17 out of 17) are not backed by any mention in your projects or experience sections. Recruiters and ATS systems cross-reference skills against actual work to verify credibility.", "issue_title": "Most Skills Lack Supporting Evidence", "action_items": ["Mention 'Python' in a project or experience bullet point", "Mention 'C++' in a project or experience bullet point", "Mention 'SQL' in a project or experience bullet point", "Mention 'NumPy' in a project or experience bullet point", "Mention 'Pandas' in a project or experience bullet point", "Remove skills you cannot demonstrate with any project or experience", "(12 more unvalidated skills — review each one)"], "severity_level": "Moderate", "where_it_appears": "These skills have no supporting context: Python, C++, SQL, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn", "example_improvement": "Your skill 'Python' has no supporting evidence.\n\nFix: Add to a project or experience bullet:\n'Built a data pipeline using Python that processed 10K records daily, reducing manual effort by 60%.'"}, {"ats_impact": "Low", "how_to_fix": "Add a 2-3 sentence summary highlighting your experience level, key skills, and career focus. Tailor it to the job you're applying for.", "explanation": "Your resume does not include a Professional Summary or Objective section at the top. While not required, a 2-3 line summary helps recruiters quickly understand your profile and target role.", "issue_title": "Missing Professional Summary", "action_items": ["Add a 'PROFESSIONAL SUMMARY' or 'OBJECTIVE' section at the top of your resume", "Write 2–3 sentences: who you are, your key skills, and what role you seek", "Mention your years of experience or education level upfront", "Tailor this section for each job application — reference the specific role", "Keep it under 60 words — recruiters spend only 6 seconds on first scan"], "severity_level": "Low", "where_it_appears": "Top of resume — below contact info", "example_improvement": "Add:\nPROFESSIONAL SUMMARY\nFull-stack developer with 2+ years of experience building scalable web applications using React, Node.js, and AWS. Passionate about clean architecture and performance optimization."}], "experience_months": 0, "jd_match_analysis": null, "skill_validation_details": {"total": 17, "validated": [], "unvalidated": ["Python", "C++", "SQL", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn", "Jupyter Notebook", "Vs Code", "Git", "Github", "Data Cleaning", "EDA", "Feature Engineering", "Machine Learning", "Model Evaluation"], "validation_pct": 0.0, "validated_count": 0}},"created_at":"2026-05-29T06:26:00.851896+00:00"}]
+2026-05-29 11:56:02,235 - INFO - Saved analysis for user a3ad37e7-bf39-4c0b-9f0b-a9314685bc77: 4
+2026-05-29 11:56:56,752 - INFO - shutting down the api!!
+2026-05-29 11:56:58,430 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:56:58,430 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:57:01,589 - INFO - Loaded en_core_web_md
+2026-05-29 11:57:01,589 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:57:13,964 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:57:13,965 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:57:14,081 - INFO - shutting down the api!!
+2026-05-29 11:57:15,264 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:57:15,264 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:57:17,723 - INFO - Loaded en_core_web_md
+2026-05-29 11:57:17,723 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:57:28,693 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:57:28,693 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:57:28,797 - INFO - shutting down the api!!
+2026-05-29 11:57:30,633 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:57:30,633 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:57:33,411 - INFO - Loaded en_core_web_md
+2026-05-29 11:57:33,412 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:57:49,795 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:57:49,796 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:57:49,904 - INFO - shutting down the api!!
+2026-05-29 11:57:52,262 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:57:52,262 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:57:55,341 - INFO - Loaded en_core_web_md
+2026-05-29 11:57:55,341 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:58:11,515 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:58:11,515 - INFO - All models loaded. API is ready to serve requests.
+2026-05-29 11:59:27,948 - INFO - shutting down the api!!
+2026-05-29 11:59:29,137 - INFO - Starting ATS Resume Analyzer API...
+2026-05-29 11:59:29,137 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-05-29 11:59:31,603 - INFO - Loaded en_core_web_md
+2026-05-29 11:59:31,603 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-05-29 11:59:41,589 - INFO - Loaded all-MiniLM-L6-v2
+2026-05-29 11:59:41,589 - INFO - All models loaded. API is ready to serve requests.
