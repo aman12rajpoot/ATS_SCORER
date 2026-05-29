@@ -16,7 +16,9 @@ APP_TITLE='ATS RESUME ANALYZER API'
 APP_VERSION='1.0.0'
 APP_DESCRIPTION='analyse resumes against job description using nlp + ml'
 
-ALLOWED_ORIGINS = ['http://localhost:8501'
+ALLOWED_ORIGINS = ['http://localhost:8501',
+                   
+                   'https://atsscorer-fnw6ndufuwtzj8vp6uyux8.streamlit.app/'
   
 ]  
 
