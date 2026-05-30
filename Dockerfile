@@ -15,6 +15,8 @@ RUN apt-get update && apt-get install -y \
     libgdk-pixbuf-2.0-0 \
     libglib2.0-0 \
     libffi-dev \
+    libgobject-2.0-0 \
+    libglib2.0-dev \
     shared-mime-info \
     fonts-dejavu-core \
     && rm -rf /var/lib/apt/lists/*
