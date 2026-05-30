@@ -105,7 +105,7 @@ def validate_skills_with_projects(
     projects: List[Dict],
     experience_entries: List[Dict],
     embedder: SentenceTransformer,
-    threshold: float = 0.6,
+    threshold: float = 0.5,
 ) -> Dict:
     
     if not skills:
