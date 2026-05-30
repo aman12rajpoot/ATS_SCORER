@@ -126,16 +126,32 @@ JD_SYSTEM_PROMPT = (
     "Extract JD data as JSON only. No markdown, no explanation."
 )
 
-JD_USER_PROMPT = """Parse job description to JSON:
-{{
+JD_USER_PROMPT = """
+Parse job description to JSON.
+
+Rules:
+- Extract job-related skills, tools, certifications, platforms, methodologies, and domain competencies.
+- Keep multi-word skills intact.
+- Do NOT extract:
+  - salaries
+  - company descriptions
+  - locations
+  - generic phrases
+  - responsibilities
+  - degrees
+  - years of experience
+
+Output JSON:
+{
   "job_title": "",
-  "required_skills": ["skill1", "skill2"],
-  "preferred_skills": ["skill3"],
-  "keywords": ["keyword1", "keyword2"]
-}}
+  "required_skills": [],
+  "preferred_skills": [],
+  "keywords": []
+}
 
 Job Description:
-{raw_text}"""
+{raw_text}
+"""
 
 def parse_job_description(raw_text: str) -> Dict:
     client = _get_client()
