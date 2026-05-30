@@ -9,8 +9,7 @@ import os
 
 load_dotenv()
 
-print("SUPABASE_URL =", os.getenv("SUPABASE_URL"))
-print("SUPABASE_JWT_SECRET =", os.getenv("SUPABASE_JWT_SECRET"))
+
 
 from backend.core.config import(
     ALLOWED_ORIGINS, 
