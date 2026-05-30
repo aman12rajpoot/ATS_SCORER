@@ -177,12 +177,13 @@ def render() -> None:
     resume_file, jd_file, jd_text = _render_upload_area(analysis_mode)
 
     st.markdown("---")
-
     if not resume_file:
         st.info("👆 Upload your resume to begin.")
-        # If we have a prior result in session, render it again.
+
         if st.session_state.get("scorer_analysis"):
             display_results_dashboard(st.session_state["scorer_analysis"])
+            _render_export_buttons(st.session_state["scorer_analysis"])
+
         return
 
     access_token = st.session_state.get("access_token")
