@@ -141,13 +141,15 @@ Rules:
   - degrees
   - years of experience
 
+
 Output JSON:
-{
+
+{{
   "job_title": "",
   "required_skills": [],
   "preferred_skills": [],
   "keywords": []
-}
+}}
 
 Job Description:
 {raw_text}
